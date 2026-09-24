@@ -141,26 +141,23 @@ End-to-end analysis of Blinkit data — data cleaning, SQL analysis of business 
 
 ---
 
+---
 
 ## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulYadav-75&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulYadav-75&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulYadav-75&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RahulYadav-75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulYadav-75&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=RahulYadav-75&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulYadav-75&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=RahulYadav-75&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulYadav-75&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%" />
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulYadav-75&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%" />
 
 </div>
 
@@ -170,9 +167,14 @@ End-to-end analysis of Blinkit data — data cleaning, SQL analysis of business 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RahulYadav-75/RahulYadav-75/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RahulYadav-75/RahulYadav-75/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
+
+
+
+
+---
 
 > Setup instructions for enabling this animation are below in the **Setup Instructions** section.
 
