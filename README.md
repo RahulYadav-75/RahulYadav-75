@@ -167,7 +167,7 @@ End-to-end analysis of Blinkit data — data cleaning, SQL analysis of business 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RahulYadav-75/RahulYadav-75/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/RahulYadav-75/RahulYadav-75/outer/github-contribution-grid-snake.svg">
 
 </div>
 
