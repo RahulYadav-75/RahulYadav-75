@@ -161,18 +161,15 @@ End-to-end analysis of Blinkit data — data cleaning, SQL analysis of business 
 
 ## 🐍 Contribution Animation
 
+## 🐍 Contribution Animation
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RahulYadav-75/RahulYadav-75/outer/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/RahulYadav-75/RahulYadav-75/outer/github-contribution-grid-snake.svg" alt="Contribution Snake" width="90%">
 
 </div>
 
 
-
-
----
-
-> Setup instructions for enabling this animation are below in the **Setup Instructions** section.
 
 ---
 
