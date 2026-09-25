@@ -147,17 +147,13 @@ End-to-end analysis of Blinkit data — data cleaning, SQL analysis of business 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RahulYadav-75&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RahulYadav-75&theme=tokyonight" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulYadav-75&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=RahulYadav-75&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulYadav-75&theme=tokyonight" width="48%">
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulYadav-75&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulYadav-75&theme=tokyonight" width="95%">
 
 </div>
 
