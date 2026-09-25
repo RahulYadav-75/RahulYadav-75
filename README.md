@@ -9,7 +9,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RahulYadav-75&color=00F7FF&style=flat-square&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=flat-square&logo=vercel&logoColor=black)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00F7FF?style=flat-square&logo=vercel&logoColor=black)](https://portfolio-smoky-one-iytl505vql.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
@@ -167,7 +167,7 @@ End-to-end analysis of Blinkit data — data cleaning, SQL analysis of business 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RahulYadav-75/RahulYadav-75/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/RahulYadav-75/RahulYadav-75/output/github-contribution-grid-snake.svg">
 
 </div>
 
@@ -214,9 +214,9 @@ Lloyd Institute of Engineering & Technology, Greater Noida
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rahal-yadav)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ry8151100@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-smoky-one-iytl505vql.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RahulYadav-75)
 
 </div>
